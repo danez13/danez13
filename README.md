@@ -1,8 +1,8 @@
-## 👋 Hey I am Daniel Hernandez
-I'm a computer science student who is passionate about many things including but not limited to technology, learning, and community-building. As the Vice-president and tech lead of Code Crunch Club, I empower students to excel in technical interview preparation, Datascience/AI, and software development by fostering an inclusive and collaborative environment. Dive into my journey of coding, leadership, and community service!
+## 👋 Hey, I am Daniel Hernandez
+I'm a computer science student who is passionate about many things including but not limited to AI, cybersecurity, learning, and community-building. As the **Vice-president and tech lead of Code Crunch Club**, I empower students to excel in technical interview preparation, Datascience/AI, and software development by fostering an inclusive and collaborative environment. Dive into my journey of coding, leadership, and community servic!
 
 ### 🚀 Fun fact:
-I like to listen to people. to learn from what they have to say, to learn from their mistakes, and to learn from their triumphs. 
+I like to listen to people. To learn from what they have to say, to learn from their mistakes, and to learn from their triumphs. 
 
 ```“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.” — Albert Einstein```
 
@@ -21,14 +21,14 @@ Expected December 2024
 ---
 
 ## 🛠️ Skills & Technologies
-Languages: Java, Python, C++, C, batch, bash, SQL, HTML, CSS
-libraries: numpy(Python), pandas(Python), matplotlib(Python), scikit-learn(Python), tensorflow(Python), keras(Python), requests(Python), BeautifulSoup(Python), OpenGL(C++)
-Tools: PyCharm, Visual Studio, IntelliJ, Git, Google Cloud, nmap, metasploit
+* Languages: Java, Python, C++, C, batch, bash, SQL, HTML, CSS
+* Libraries: numpy(Python), pandas(Python), matplotlib(Python), scikit-learn(Python), tensorflow(Python), keras(Python), requests(Python), BeautifulSoup(Python), OpenGL(C++)
+* Tools: PyCharm, Visual Studio, IntelliJ, Git, Google Cloud, nmap, metasploit
 
 ---
 
 ## 💼 Professional Experience
-Vice-president, Code Crunch Club
+Vice-president and Tech Lead, Code Crunch Club
 August 2024 – Present | Miami, FL
 
 * Led workshops and panel discussions with leaders from Google, ServiceNow, and Salesforce.
@@ -54,7 +54,7 @@ progress.
 ---
 
 ## 🚧 Projects
-Here's where I roll up my sleeves and get into code!
+Here's where I take off the gloves and get into code!
 
 * [3D-snakegame](https://github.com/danez13/3D-SnakeGame): 3D snake game built using openGL in C++.
 * [NBA app](https://github.com/danez13/CRRJD_data-driven-basetball-application): track your favorite teams or players stats in an easy and intuitive way.
@@ -72,9 +72,5 @@ Here's where I roll up my sleeves and get into code!
 ## 🔗 Connect with me!
 * [LinkedIn](https://www.linkedin.com/in/daniel-hernandez-10203b24a/)
 * [GitHub](https://github.com/danez13)
-
----
-
-**PS:** always open to lend an ear about any topic in the world
 
 

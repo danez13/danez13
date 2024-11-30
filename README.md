@@ -65,7 +65,7 @@ Here's where I roll up my sleeves and get into code!
 ---
 
 ## 🏆 Honors and Awards
-* **Dean’s List:** SPring 2023
+* **Dean’s List:** Spring 2023
 
 ---
 

@@ -56,7 +56,7 @@ progress.
 ## 🚧 Projects
 Here's where I take off the gloves and get into code!
 
-* [3D-snakegame](https://github.com/danez13/3D-SnakeGame): 3D snake game built using openGL in C++.
+* [AirCraft Maintaince Classifier](https://github.com/danez13/Air-Craft-Maintaince-Classifier): Analysis of different classification models performed on the “Turbofan Engine Degradation Simulation Data Set”
 * [NBA app](https://github.com/danez13/CRRJD_data-driven-basetball-application): track your favorite teams or players stats in an easy and intuitive way.
 * [Pantheon](https://github.com/danez13/Pantheon-ALL-in-one-Hacking-Tool): information gathering and scanning ethical hacking tool.
 * [UWF-interface](https://github.com/danez13/UWF): command-line batch interface for windows: unified write filter.

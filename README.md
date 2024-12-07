@@ -60,7 +60,7 @@ Here's where I take off the gloves and get into code!
 * [NBA app](https://github.com/danez13/CRRJD_data-driven-basetball-application): track your favorite teams or players stats in an easy and intuitive way.
 * [Pantheon](https://github.com/danez13/Pantheon-ALL-in-one-Hacking-Tool): information gathering and scanning ethical hacking tool.
 * [UWF-interface](https://github.com/danez13/UWF): command-line batch interface for windows: unified write filter.
-* [XAI](https://github.com/danez13/CAP-XAI): a research recreation code of ["A Diagnostic Study of Explainability Techniques for Text Classification"](https://arxiv.org/abs/2009.13295), reconstructed for a single model, easier to use, and completed architecture.
+* [XAI](https://github.com/danez13/CAP-XAI): a experimental research of explainable AI using ["A Diagnostic Study of Explainability Techniques for Text Classification"](https://arxiv.org/abs/2009.13295)
 
 ---
 

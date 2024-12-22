@@ -16,13 +16,16 @@ I like to listen to people. To learn from what they have to say, to learn from t
 ## 🌟 Education
 Florida International University
 Bachelor of Science in Computer Science
-Expected December 2024
+December 2024
+
+Florida International University
+Masters in Computer Science
 
 ---
 
 ## 🛠️ Skills & Technologies
 * Languages: Java, Python, C++, C, batch, bash, SQL, HTML, CSS
-* Libraries: numpy(Python), pandas(Python), matplotlib(Python), scikit-learn(Python), tensorflow(Python), keras(Python), requests(Python), BeautifulSoup(Python), OpenGL(C++)
+* Libraries: numpy(Python), pandas(Python), matplotlib(Python), scikit-learn(Python), tensorflow(Python), keras(Python), requests(Python), BeautifulSoup(Python), Transformer(Python), TokenizerOpenGL(C++)
 * Tools: PyCharm, Visual Studio, IntelliJ, Git, Google Cloud, nmap, metasploit
 
 ---
@@ -30,7 +33,6 @@ Expected December 2024
 ## 💼 Professional Experience
 Vice-president and Tech Lead, Code Crunch Club
 August 2024 – Present | Miami, FL
-
 * Led workshops and panel discussions with leaders from Google, ServiceNow, and Salesforce.
 * Organized coding sessions, interview prep, and hackathons to boost student coding confidence.
 

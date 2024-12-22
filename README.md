@@ -26,7 +26,7 @@ Expected December 2026
 
 ## 🛠️ Skills & Technologies
 * Languages: Java, Python, C++, C, batch, bash, SQL, HTML, CSS
-* Libraries: numpy(Python), pandas(Python), matplotlib(Python), scikit-learn(Python), tensorflow(Python), keras(Python), requests(Python), BeautifulSoup(Python), Transformer(Python), Tokenizer(Python), tqdm(Python), Scipy(Python), Torch(Python), 2OpenGL(C++)
+* Libraries: numpy(Python), pandas(Python), matplotlib(Python), scikit-learn(Python), tensorflow(Python), keras(Python), requests(Python), BeautifulSoup(Python), Transformer(Python), Tokenizer(Python), tqdm(Python), Scipy(Python), Torch(Python), OpenGL(C++)
 * Tools: PyCharm, Visual Studio, IntelliJ, Git, Google Cloud, nmap, metasploit, Power Bi, Microsoft Office
 
 ---

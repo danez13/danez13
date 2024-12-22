@@ -5,10 +5,12 @@ I'm a computer science student who is passionate about many things including but
 I like to listen to people. To learn from what they have to say, to learn from their mistakes, and to learn from their triumphs. 
 
 ```“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.” — Albert Einstein```
+
 ---
 
 ## 🧑‍💻 Check out my work:
 * Code Crunch Club: Building the next generation of coders! [Learn more here!](https://ba-00001.github.io/codecrunchclub/)
+
 ---
 
 ## 🌟 Education
@@ -19,12 +21,14 @@ December 2024
 Florida International University
 Masters in Computer Science
 Expected December 2026
+
 ---
 
 ## 🛠️ Skills & Technologies
 * Languages: Java, Python, C++, C, batch, bash, SQL, HTML, CSS
 * Libraries: numpy(Python), pandas(Python), matplotlib(Python), scikit-learn(Python), tensorflow(Python), keras(Python), requests(Python), BeautifulSoup(Python), Transformer(Python), Tokenizer(Python), tqdm(Python), Scipy(Python), Torch(Python), 2OpenGL(C++)
 * Tools: PyCharm, Visual Studio, IntelliJ, Git, Google Cloud, nmap, metasploit, Power Bi, Microsoft Office
+
 ---
 
 ## 💼 Professional Experience
@@ -58,7 +62,8 @@ progress.
 Vice-president and Tech Lead, Code Crunch Club
 August 2024 – Present | Miami, FL
 * Led workshops and panel discussions with leaders from Google, ServiceNow, and Salesforce.
-* Organized coding sessions, interview prep, and hackathons to boost student coding confidence. 
+* Organized coding sessions, interview prep, and hackathons to boost student coding confidence.
+
 ---
 
 ## 🚧 Projects
@@ -69,10 +74,12 @@ Here's where I take off the gloves and get into code!
 * [Pantheon](https://github.com/danez13/Pantheon-ALL-in-one-Hacking-Tool): information gathering and scanning ethical hacking tool.
 * [UWF-interface](https://github.com/danez13/UWF): command-line batch interface for windows: unified write filter.
 * [Enhancing Explainablity In LLM](https://github.com/danez13/Enhancing-Explainablity-In-LLM): a experimental research of explainable AI using ["A Diagnostic Study of Explainability Techniques for Text Classification"](https://arxiv.org/abs/2009.13295)
+
 ---
 
 ## 🏆 Honors and Awards
 * **Dean’s List:** Spring 2023
+
 ---
 
 ## 🔗 Connect with me!

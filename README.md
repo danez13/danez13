@@ -8,7 +8,7 @@ I like to listen to people. To learn from what they have to say, to learn from t
 
 ---
 
-## 🧑‍💻 Check out my work:
+## 🧑‍💻 Check out my club:
 * Code Crunch Club: Building the next generation of coders! [Learn more here!](https://ba-00001.github.io/codecrunchclub/)
 
 ---
@@ -25,6 +25,8 @@ Expected December 2026
 ---
 
 ## 🛠️ Skills & Technologies
+![Daniels Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danez13&theme=merko&layout=compact)
+
 * Languages: Java, Python, C++, C, batch, bash, SQL, HTML, CSS
 * Libraries: numpy(Python), pandas(Python), matplotlib(Python), scikit-learn(Python), tensorflow(Python), keras(Python), requests(Python), BeautifulSoup(Python), Transformer(Python), Tokenizer(Python), tqdm(Python), Scipy(Python), Torch(Python), OpenGL(C++)
 * Tools: PyCharm, Visual Studio, IntelliJ, Git, Google Cloud, nmap, metasploit, Power Bi, Microsoft Office
@@ -85,5 +87,3 @@ Here's where I take off the gloves and get into code!
 ## 🔗 Connect with me!
 * [LinkedIn](https://www.linkedin.com/in/daniel-hernandez-10203b24a/)
 * [GitHub](https://github.com/danez13)
-
-

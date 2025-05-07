@@ -1,5 +1,5 @@
 ## 👋 Hey, I am Daniel Hernandez
-I'm a computer science student who is passionate about many things including but not limited to AI, cybersecurity, learning, and community-building. As the **Vice-president and tech lead of Code Crunch Club**, I empower students to excel in technical interview preparation, Datascience/AI, and software development by fostering an inclusive and collaborative environment. Dive into my journey of coding, leadership, and community servic!
+I'm a computer science student who is passionate about many things including but not limited to AI, cybersecurity, learning, and community-building. As the **tech lead of Code Crunch Club**, I empower students to excel in technical interview preparation, Datascience/AI, and software development by fostering an inclusive and collaborative environment. Dive into my journey of coding, leadership, and community servic!
 
 ### 🚀 Fun fact:
 I like to listen to people. To learn from what they have to say, to learn from their mistakes, and to learn from their triumphs. 

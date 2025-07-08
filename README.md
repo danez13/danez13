@@ -14,6 +14,14 @@
 
 ---
 
+<h3 align="center">🔌 Connect with me:</h3>
+
+[![](https://img.shields.io/badge/Hernandezdaniel1702@gmail.com-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:hernandezdaniel1702@gmail.com)
+[![](https://img.shields.io/badge/Linkedin-00A0DC?logoColor=white&style=flat)](https://www.linkedin.com/in/daniel-hernandez-10203b24a/)
+
+
+---
+
 <h3 align="center">🛠️ Languages and Tools:</h3>
 
 ![](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
